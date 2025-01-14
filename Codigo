@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Absurda de Manual Didáctico</title>
+    <style>
+        body {
+            background-color: #f9f9f9;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff4500;
+            font-size: 3em;
+        }
+        h2 {
+            color: #008000;
+            font-size: 2em;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.5;
+        }
+        .absurd {
+            color: #0000ff;
+            font-weight: bold;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.8em;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bienvenido a la Página Absurda de Manual Didáctico</h1>
+    <h2>¿Qué es esta cosa?</h2>
+    <p>Este es un manual didáctico que no enseña nada en particular. Aquí aprenderás a no aprender, y quizás a descubrir que el conocimiento es como un pez volador en un sombrero de copa.</p>
+
+    <h2>Instrucciones de Uso</h2>
+    <p>Para comenzar, simplemente observa la siguiente lista de cosas que no deberías hacer:</p>
+    <ul>
+        <li>No intentes entender el sentido de la vida, es más fácil preguntarle a un pato que a un filósofo.</li>
+        <li>No uses este manual para hacer tareas importantes, a menos que quieras que se conviertan en una obra de arte abstracta.</li>
+        <li>Si encuentras un dragón, ofrécele una taza de té. Eso suele funcionar.</li>
+    </ul>
+
+    <h2>Un Poema Absurdo</h2>
+    <p class="absurd">En un reino de locura, un caballero danzaba,<br>
+    Con una armadura hecha de espaguetis,<br>
+    Y mientras la luna reía,<br>
+    Los peces cantaban baladas de amor.</p>
+
+    <h2>Conclusión</h2>
+    <p>Así que, querido lector, si has llegado hasta aquí, probablemente estés tan confundido como un pez en una bicicleta. Recuerda: la vida es un gran chiste, y nosotros somos los payasos tratando de contar el mejor chiste de todos.</p>
+
+    <div class="footer">
+        <p>© 2023 Página Absurda. Todos los derechos de autor están perdidos en un agujero negro.</p>
+    </div>
+</body>
+</html>
